@@ -1,0 +1,85 @@
+.div {
+
+    /*width:100%;*/
+    /*height:500px;*/
+    margin: 50px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+body {
+    background-color: lightcyan;
+    text-align: center;
+}
+h1 {
+    font-family: 'Bad Script', cursive;
+    font-size: 582.2%;
+    width:800px;
+    margin: auto;
+    margin-bottom: 70px;
+    color: #66BFBF;
+
+}
+h1:hover
+{
+    color: black;
+}
+#WEB:hover
+{
+    color: black;
+}
+
+#WEB
+{
+    padding-left: 500px;
+    padding-right: 0px;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: darkgray;
+    font-family: 'Chelsea Market', cursive;
+    width:500px;
+    margin: auto;
+    color: #66BFBF;
+    padding-top: 20px;
+}
+a{
+    color: #11999E;
+}
+h2
+{
+    color:  #66BFBF;
+}
+h3
+{
+    color:  #66BFBF;
+}
+.dolar
+{
+    text-align: left;
+}
+
+body
+{
+    margin-top: 0;
+    margin-left: 0;
+}
+.Top-cloud
+{ position: absolute;
+    padding-top: 800px;
+    padding-bottom:500px;
+    padding-left:700px;
+
+}
+.Bottom-Cloud
+{
+    position: relative;
+    padding-bottom: 1000px;
+}
+.Mountain
+{
+    padding-right: 400px;
+    width:50%;
+    margin: auto;
+}
+
